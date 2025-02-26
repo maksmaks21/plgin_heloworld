@@ -1,0 +1,11 @@
+name: MyPlugin
+main: mystitechadventures.MyPlugin
+version: 1.0
+api-version: 1.20
+description: Привітальний плагін для сервера
+author: MystiTechAdventures
+
+commands:
+  greet:
+    description: Відправляє привітальне повідомлення
+    usage: /greet
